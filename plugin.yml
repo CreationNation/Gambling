@@ -1,7 +1,7 @@
 name: Gambling
 main: net.cnation.gambling.Gambling
-version: 1.0
-author: Heytherejake
+version: 2.0.0
+author: cereal, Heytherejake
 description: Casino Signs and Card Decks
 commands:
     game:
