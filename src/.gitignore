@@ -1,0 +1,8 @@
+# Eclipse stuff
+/.classpath
+/.project
+/.settings
+/META-INF
+/src/lib
+/src/Gambling.jar
+.externalToolBuilders
