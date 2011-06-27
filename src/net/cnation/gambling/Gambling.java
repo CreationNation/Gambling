@@ -18,8 +18,8 @@ import java.util.Iterator;
 import java.util.Random;
 import java.util.logging.Logger;
 
-import net.milkbowl.modules.economy.EconomyManager;
-import net.milkbowl.modules.permission.PermissionManager;
+import net.milkbowl.vault.modules.economy.EconomyManager;
+import net.milkbowl.vault.modules.permission.PermissionManager;
 
 import org.bukkit.ChatColor;
 import org.bukkit.Location;
