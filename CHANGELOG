@@ -1,0 +1,4 @@
+Version 2.0.1
+    * Restructured source code
+    * Implemented remote Vault (from MilkBowl)
+          o https://github.com/MilkBowl/Vault
